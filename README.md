@@ -22,7 +22,7 @@ This script installs Docker on either Debian-based or Red Hat-based Linux distri
 ## Usage
 
 1. Clone this repository or copy the script file.
-2. Make sure you have Go installed on your machime and run the script as `root`:
+2. Make sure you have Go installed on your machine and run the script as `root`:
     ```bash
     sudo go run script.go
     ```
